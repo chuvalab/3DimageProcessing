@@ -19,4 +19,4 @@ The R scripts were used to generate plots from Excel files containing quantifica
 Finally, the 'TIFF_to_Photoshop' folder contains a script to run in Adobe Photoshop. This script automatically takes the .tiff files in the input folder and combines them in a template file (also provided) in an output folder. The .psd files can then be used for brightness/contrast adjustments. 
 * This script and attachments were written by A.W. Overeem. 
 * The folder contains its own instructions in the Readme file.
-* The folder also contains example .tiff files and an example. psd file from the manuscript to test out the script on your PC. 
+* The folder also contains example .tiff files from the manuscript to test out the script on your PC. 
