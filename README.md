@@ -1,4 +1,4 @@
-# 3Dimagedata
+# 3DimageProcessing
 
 This repository contains scripts to the manuscript titled ‘Generation of 3D human foetal testis reconstitutions for in vitro culture.’
 
